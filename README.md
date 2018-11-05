@@ -1,8 +1,8 @@
 # Robust Optimization
 
 Authors:
-* Artur Ilichev.
-* Ivan Ignatyev.
-* Sava Stepurin.
+* Artur Ilichev
+* Ivan Ignatyev
+* Sava Stepurin
 
-Project description is located at [Overleaf](https://www.overleaf.com/read/tbjdmwpxrycg)
+Project description is located at [Overleaf](https://www.overleaf.com/read/tbjdmwpxrycg).
